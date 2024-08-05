@@ -1,0 +1,7 @@
+*{
+  background-color: dark;
+}
+.image-fluid {
+  max-height: 300px;
+  max-width: 500px;
+}

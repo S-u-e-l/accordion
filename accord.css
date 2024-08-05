@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(48, 47, 47);
+
+}
+.accordion-img img{
+    max-width: 500px;
+    max-height: 300px;
+    margin-bottom: 20px;
+}
